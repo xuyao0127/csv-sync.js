@@ -1,14 +1,14 @@
-# csvSync.js
+# csv-sync.js
 ## Install
 
 ```
-npm install csvSync
+npm install csv-sync
 ```
 
 ## Import
 
 ```
-let csvSync = require('csvSync');
+let csvSync = require('csv-sync');
 ```
 
 ## Parse
